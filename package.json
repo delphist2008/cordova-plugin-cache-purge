@@ -1,0 +1,101 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "E:\\work\\git\\cordova-plugin-cache-purge",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "E:\\work\\git\\cordova-plugin-cache-purge",
+        "spec": "E:\\work\\git\\cordova-plugin-cache-purge",
+        "type": "directory"
+      },
+      "E:\\work\\git\\SportPriority.App.Ionic\\node_modules"
+    ],
+    [
+      {
+        "raw": "https://github.com/delphist2008/cordova-plugin-cache-purge",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "https://github.com/delphist2008/cordova-plugin-cache-purge",
+        "spec": "git+https://github.com/delphist2008/cordova-plugin-cache-purge.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:delphist2008/cordova-plugin-cache-purge.git",
+          "sshUrl": "git+ssh://git@github.com/delphist2008/cordova-plugin-cache-purge.git",
+          "httpsUrl": "git+https://github.com/delphist2008/cordova-plugin-cache-purge.git",
+          "gitUrl": "git://github.com/delphist2008/cordova-plugin-cache-purge.git",
+          "shortcut": "github:delphist2008/cordova-plugin-cache-purge",
+          "directUrl": "https://raw.githubusercontent.com/delphist2008/cordova-plugin-cache-purge/master/package.json"
+        }
+      },
+      "E:\\work\\git\\SportPriority.App.Ionic\\node_modules"
+    ]
+  ],
+  "_from": "git+https://github.com/delphist2008/cordova-plugin-cache-purge.git",
+  "_id": "cordova-plugin-cache-purge@0.0.1",
+  "_inCache": true,
+  "_location": "/cordova-plugin-cache-purge",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "https://github.com/delphist2008/cordova-plugin-cache-purge",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "https://github.com/delphist2008/cordova-plugin-cache-purge",
+    "spec": "git+https://github.com/delphist2008/cordova-plugin-cache-purge.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:delphist2008/cordova-plugin-cache-purge.git",
+      "sshUrl": "git+ssh://git@github.com/delphist2008/cordova-plugin-cache-purge.git",
+      "httpsUrl": "git+https://github.com/delphist2008/cordova-plugin-cache-purge.git",
+      "gitUrl": "git://github.com/delphist2008/cordova-plugin-cache-purge.git",
+      "shortcut": "github:delphist2008/cordova-plugin-cache-purge",
+      "directUrl": "https://raw.githubusercontent.com/delphist2008/cordova-plugin-cache-purge/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/delphist2008/cordova-plugin-cache-purge.git#0e7634aa2c6e15b51b4c2a20b892e7e553a917b9",
+  "_shasum": "a9d48cb16434853e1e6cb2e0d333edd83051ddf8",
+  "_shrinkwrap": null,
+  "_spec": "https://github.com/delphist2008/cordova-plugin-cache-purge",
+  "_where": "E:\\work\\git\\SportPriority.App.Ionic\\node_modules",
+  "author": {
+    "name": "whiteoctober"
+  },
+  "bugs": {
+    "url": "https://github.com/whiteoctober/cordova-plugin-cache-purge/issues"
+  },
+  "dependencies": {},
+  "description": "Cordova plugin to return the version number of the current app",
+  "devDependencies": {},
+  "gitHead": "e16bc62ab9556e1df34ef52a57eaa08dda16ba8d",
+  "homepage": "https://github.com/whiteoctober/cordova-plugin-cache-purge#readme",
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "app",
+    "version",
+    "appversion",
+    "plugin"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-cache-purge",
+  "optionalDependencies": {},
+  "readme": "",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delphist2008/cordova-plugin-cache-purge.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
