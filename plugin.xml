@@ -13,4 +13,9 @@
         <engine name="cordova" version=">=3.0.0" />
     </engines>
 
+    <!-- browser -->
+    <platform name="browser">
+         <hook type="after_prepare" src="hooks/browser/after_prepare.js" />
+    </platform>
+
 </plugin>
