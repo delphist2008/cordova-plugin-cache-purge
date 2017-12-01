@@ -15,7 +15,8 @@ var assetsFolder = buildFolder + 'build/';
 var jsFiles = [
     'main',
     'polyfills',
-    'sw-toolbox'
+    'sw-toolbox',
+    'vendor'
 ];
 var cssFiles = [
     'main'
