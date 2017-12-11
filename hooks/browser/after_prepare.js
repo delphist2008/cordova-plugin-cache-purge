@@ -23,7 +23,7 @@ var cssFiles = [
 ];
 var htmlFilesToUpdate = [
     'index.html',
-    'service-worker'
+    'service-worker.js'
 ];
 var replacements = [];
 
